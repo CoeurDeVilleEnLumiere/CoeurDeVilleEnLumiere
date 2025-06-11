@@ -20,7 +20,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "BlueprintFileUtils",
+			"Name": "SkeletalMeshModelingTools",
 			"Enabled": true
 		}
 	]
