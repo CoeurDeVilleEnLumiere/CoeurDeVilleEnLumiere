@@ -26,10 +26,6 @@
 		{
 			"Name": "BlueprintFileUtils",
 			"Enabled": true
-		},
-		{
-			"Name": "Composure",
-			"Enabled": true
 		}
 	]
 }
