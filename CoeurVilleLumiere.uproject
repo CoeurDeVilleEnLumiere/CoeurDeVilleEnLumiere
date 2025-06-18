@@ -20,7 +20,15 @@
 			"Enabled": true
 		},
 		{
+			"Name": "SkeletalMeshModelingTools",
+			"Enabled": true
+		},
+		{
 			"Name": "BlueprintFileUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintColorPicker",
 			"Enabled": true
 		}
 	]
